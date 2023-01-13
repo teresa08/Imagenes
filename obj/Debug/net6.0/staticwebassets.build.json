@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "cqY0QK0kT/H3KrxoHxFLiJ403MahjAAwvmV8TA8kgmE=",
+  "Source": "Api-Imagenes",
+  "BasePath": "_content/Api-Imagenes",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Api-Imagenes\\wwwroot",
+      "Source": "Api-Imagenes",
+      "ContentRoot": "C:\\Users\\18094\\source\\repos\\Api-Imagenes\\Api-Imagenes\\wwwroot\\",
+      "BasePath": "_content/Api-Imagenes",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\18094\\source\\repos\\Api-Imagenes\\Api-Imagenes\\wwwroot\\Imagenes\\facebook.jpg",
+      "SourceId": "Api-Imagenes",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\18094\\source\\repos\\Api-Imagenes\\Api-Imagenes\\wwwroot\\",
+      "BasePath": "_content/Api-Imagenes",
+      "RelativePath": "Imagenes/facebook.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\facebook.jpg"
+    }
+  ]
+}
